@@ -3,6 +3,8 @@ package repository
 import (
 	"log"
 
+	_ "github.com/go-sql-driver/mysql"
+
 	"github.com/sotabkw/go_rest_cleanarch_test/model/entity"
 )
 
