@@ -5,7 +5,7 @@ import (
 
 	_ "github.com/go-sql-driver/mysql"
 
-	"github.com/sotabkw/go_rest_cleanarch_test/model/entity"
+	"github.com/sotabkw/go_rest_mvc_test/model/entity"
 )
 
 type TodoRepository interface {

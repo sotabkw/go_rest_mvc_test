@@ -1,4 +1,4 @@
-module github.com/sotabkw/go_rest_cleanarch_test
+module github.com/sotabkw/go_rest_mvc_test
 
 go 1.16
 

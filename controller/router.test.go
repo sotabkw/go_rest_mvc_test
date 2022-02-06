@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/sotabkw/go_rest_cleanarch_test/test"
+	"github.com/sotabkw/go_rest_mvc_test/test"
 )
 
 var mux *http.ServeMux

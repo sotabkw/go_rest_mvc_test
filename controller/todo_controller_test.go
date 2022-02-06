@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/sotabkw/go_rest_cleanarch_test/controller/dto"
-	"github.com/sotabkw/go_rest_cleanarch_test/test"
+	"github.com/sotabkw/go_rest_mvc_test/controller/dto"
+	"github.com/sotabkw/go_rest_mvc_test/test"
 )
 
 func TestGetTodos_NotFound(t *testing.T) {

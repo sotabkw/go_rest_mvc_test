@@ -6,9 +6,9 @@ import (
 	"path"
 	"strconv"
 
-	"github.com/sotabkw/go_rest_cleanarch_test/controller/dto"
-	"github.com/sotabkw/go_rest_cleanarch_test/model/entity"
-	"github.com/sotabkw/go_rest_cleanarch_test/model/repository"
+	"github.com/sotabkw/go_rest_mvc_test/controller/dto"
+	"github.com/sotabkw/go_rest_mvc_test/model/entity"
+	"github.com/sotabkw/go_rest_mvc_test/model/repository"
 )
 
 type TodoController interface {
